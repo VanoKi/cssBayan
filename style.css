@@ -21,7 +21,7 @@ summary{
   min-height: 100vh;
 }
 .accord{
-  max-width: 320px;
+  width: 450px;
   box-shadow: 0 0 12px 4px rgba(0, 0, 0, .4);
   border-radius: 8px;
   overflow: hidden;
@@ -65,4 +65,15 @@ summary{
 }
 .accord_body{
   padding: 20px;
+}
+
+.image_wrap{
+  display: flex;
+  justify-content: center;
+}
+
+.image{
+  width: 300px;
+  height: 300px;
+  align-items: center;
 }
