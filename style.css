@@ -20,6 +20,17 @@ summary{
   align-items: center;
   min-height: 100vh;
 }
+
+.title{
+  width: 450px;
+  box-shadow: 0 0 12px 4px rgba(0, 0, 0, .4);
+  border-radius: 8px;
+  background-color: #ECECEE;
+  border-bottom: 1px solid #777777;
+  text-align: center;
+  /*padding: 10px 40px 10px 20px;*/
+}
+
 .accord{
   width: 450px;
   box-shadow: 0 0 12px 4px rgba(0, 0, 0, .4);
